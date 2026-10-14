@@ -30,13 +30,4 @@ A one-page portfolio of my SEO work for online stores and local businesses.
 - Sales results: the stores' own WooCommerce reports.
 - Each project on the page shows its date range and source.
 
-## Files
 
-- `index.html` is the whole page. It needs no other files.
-
-## How to update the page
-
-1. Open `index.html` on GitHub.
-2. Click the pencil icon to edit.
-3. Click **Commit changes**.
-4. Wait 1 to 3 minutes. The live page updates.
