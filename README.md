@@ -2,7 +2,7 @@
 
 A one-page portfolio of my SEO work for online stores and local businesses.
 
-**Hire me:** [My Upwork profile](https://www.upwork.com/freelancers/~016898508618a9bd90)
+**Hire me:** [Fiverr](https://www.fiverr.com/users/hakimshahriar98), [Upwork](https://www.upwork.com/freelancers/~016898508618a9bd90) 
 
 ## What I do
 
